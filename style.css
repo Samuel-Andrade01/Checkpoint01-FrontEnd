@@ -47,6 +47,15 @@ a {
     background: tomato;
 }
 
+.cardcontainer {
+width: 100%;
+height: 1000px;
+
+
+}
+
+
+
 
 .cardcontainer .card {
     width: 100%;
@@ -103,7 +112,8 @@ a {
     justify-content: space-around;
     width: 300px;
     align-items: center;
-    margin: 20px auto;
+    margin
+    : 20px auto;
    
 }
 .text-card p{
@@ -115,5 +125,55 @@ a {
     position: relative;
     max-width: 320px;
     border-radius: 3% 3% 0% 0%;
+}
+
+.video {
+   display: flex;
+   flex-direction: column;
+   margin: 100px;
+   margin-bottom: 100px;
+}
+
+.video h1{
+    text-align: center;
     
 }
+
+.video1{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+footer {
+   background-color: white;
+    display: flex;
+    align-items: center;
+     height: 200px;
+    width: 100%;
+   justify-content: space-between;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+  
+
+
+
+
+.sociais {
+    display: flex;
+ }
+  
+  
+.sociais img{
+   
+    max-width: 50px;
+     margin: 15px;
+  }
+
+
+
+
+
