@@ -152,7 +152,18 @@ footer {
 }
 
 .sociais img {
-    max-width: 50px;
+    width: 50px;
     margin: 15px;
 }
 
+#imgSamuel {
+    background-image: url(img/imgSamuel.jpg);
+ }
+
+ #imgGabriel {
+    background-image: url(img/imgGabriel.png);
+ }
+
+ #imgFernando {
+    background-image: url();
+ }
